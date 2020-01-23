@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 permalink: /police/state-codes.html
+title: Stage Codes
 ---
 # **State Codes**
 
