@@ -6,3 +6,4 @@ google_analytics:
 theme: jekyll-theme-minimal
 repository_url: false
 is_user_page: false
+github.is_project_page: false
