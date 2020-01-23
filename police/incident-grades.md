@@ -4,6 +4,8 @@ permalink: /police/incident-grades.html
 title: Incident Grades
 ---
 
+## **Incident Grades**
+
 | Code       | Meaning           |
 | ------------- |:-------------:| 
 |A/HP|Visual Warning Equipment Advised. Target time: 60 seconds|
