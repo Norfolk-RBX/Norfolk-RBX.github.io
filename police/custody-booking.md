@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /police/identification-codes.html
+permalink: /police/custody-booking.html
 title: Identification Codes
 ---
 
